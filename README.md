@@ -14,3 +14,8 @@ I'm a **Data Scientist** 🕵️ & **Machine Learning Engineer** 👷 with inter
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 -->
+
+
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS" width="400"/>
+</a>
