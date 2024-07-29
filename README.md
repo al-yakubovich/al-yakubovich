@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a **Data Scientist** 🕵️ & **Machine Learning Engineer** 👷 with interest in **AI** 🤖 & **Big Data** 🏗️
 
-🛰️ I am always interested in new connections and open to new challenges, so **let's connect [linkedin.com/in/al-yakubovich](https://www.linkedin.com/in/al-yakubovich/)**
+🛰️ I am always interested in new connections and open to new challenges, so **let's connect [[linkedin.com/in/al-yakubovich](https://www.linkedin.com/in/al-yakubovich/)](https://www.linkedin.com/in/alx-yakubovich/)**
 
 
 
